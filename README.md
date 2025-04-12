@@ -1,10 +1,5 @@
 # Team Deadlock- Pragati AI Hackathon 2025
 
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Aathan-Aweso/deadlock-pragati-2025/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
-
 ## **Project Overview**
 This project addresses critical healthcare challenges in rural India, including inadequate access to medical information, doctor shortages, language barriers, disconnected patient records, and underutilized government healthcare schemes. The solution is a comprehensive AI-powered platform that connects patients, doctors, and ASHA workers through a unified system. It provides multilingual support for booking appointments, managing patient records, preliminary disease diagnosis, personalized healthcare guidance, and identifying eligible government healthcare schemes. The platform is designed to function effectively in low-resource settings with limited internet connectivity.
 
