@@ -80,9 +80,9 @@ The solution leverages AWS services like Lambda, DynamoDB Auto Scaling, and Amaz
 ---
 
 ## **Datasets Used**
-The solution uses a synthetic dataset generated with ![mostly.ai](https://mostly.ai/):
-Weekly drug sales data from 2020–2025 across five regions in India.
 
+The solution uses a synthetic dataset generated with [mostly.ai](https://mostly.ai/):
+- Weekly drug sales data from 2020–2025 across five regions in India.
 ---
 
 ## **Addressing Connectivity Challenges**
