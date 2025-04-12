@@ -96,10 +96,3 @@ The solution aims to:
 4. Focus on maternal health, child nutrition, and overall healthcare accessibility.
 
 By leveraging AI-driven personalization, multilingual support, and scalable architecture, this solution empowers rural communities with accessible and efficient healthcare services.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/62254442/6a444d0b-45f8-4835-afcc-82e2e3509dd0/Pragati-AI-Team-Deadlock.pdf
-
----
-Answer from Perplexity: pplx.ai/share
-
