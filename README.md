@@ -1,7 +1,5 @@
 # Team Deadlock- Pragati AI Hackathon 2025
 
-# Healthcare Solution for Rural India - README
-
 ## **Project Overview**
 This project addresses critical healthcare challenges in rural India, including inadequate access to medical information, doctor shortages, language barriers, disconnected patient records, and underutilized government healthcare schemes. The solution is a comprehensive AI-powered platform that connects patients, doctors, and ASHA workers through a unified system. It provides multilingual support for booking appointments, managing patient records, preliminary disease diagnosis, personalized healthcare guidance, and identifying eligible government healthcare schemes. The platform is designed to function effectively in low-resource settings with limited internet connectivity.
 
