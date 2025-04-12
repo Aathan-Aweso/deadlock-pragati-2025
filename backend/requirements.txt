@@ -1,0 +1,8 @@
+uvicorn
+fastapi
+pydantic
+python-multipart
+sqlalchemy
+python-dotenv
+requests
+sentry-sdk
