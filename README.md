@@ -6,6 +6,9 @@ This project addresses critical healthcare challenges in rural India, including 
 ---
 
 ## **Key Features**
+
+![image](https://github.com/user-attachments/assets/9fe9bdfc-a323-4ba2-9a7b-50177839052d)
+
 1. **Multilingual Support**: Enables users to interact with the platform in their preferred regional language.
 2. **Medical Report Generation**: Structured medical reports based on symptoms, consultations, and test results.
 3. **IVRS Appointment Booking**: Interactive Voice Response System for automated appointment reminders.
