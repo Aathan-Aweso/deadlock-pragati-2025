@@ -110,8 +110,12 @@ By leveraging AI-driven personalization, multilingual support, and scalable arch
 📦 
 ├─ README.md
 └─ ivr
+   ├─ .dockerignore
    ├─ .gitignore
+   ├─ Dockerfile
+   ├─ README.Docker.md
    ├─ README.md
+   ├─ compose.yaml
    ├─ package-lock.json
    ├─ package.json
    ├─ public
