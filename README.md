@@ -20,7 +20,8 @@ This project addresses critical healthcare challenges in rural India, including 
 
 ## **Solution Architecture**
 
-![image](https://github.com/user-attachments/assets/56ea22b9-ac81-4a38-9d83-cdb58abcc4bc)
+![Booking drawio (5)](https://github.com/user-attachments/assets/c4880849-4de2-4c35-a8ab-f826d2926a9a)
+
 
 ### **1. User Interaction Layer**
 - Users interact via mobile phones using an IVR system powered by Amazon Connect.
