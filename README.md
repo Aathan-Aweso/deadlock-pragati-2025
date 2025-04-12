@@ -106,4 +106,7 @@ By leveraging AI-driven personalization, multilingual support, and scalable arch
 
 ## Authors
 
-- [@deepu-RW](https://github.com/deepu-RW)
+- [Deepu John](https://github.com/deepu-RW)
+- [Aathan](https://github.com/Aathan-Aweso)
+- [Riddhishwar S](https://github.com/deepu-RW)
+
