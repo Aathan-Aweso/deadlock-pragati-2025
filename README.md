@@ -103,3 +103,7 @@ The solution aims to:
 4. Focus on maternal health, child nutrition, and overall healthcare accessibility.
 
 By leveraging AI-driven personalization, multilingual support, and scalable architecture, this solution empowers rural communities with accessible and efficient healthcare services.
+
+## Authors
+
+- [@deepu-RW](https://github.com/deepu-RW)
