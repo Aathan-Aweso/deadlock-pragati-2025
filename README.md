@@ -1,1 +1,2 @@
-# deadlock-pragati-2025
+# Team Deadlock- Pragati AI Hackathon 2025
+
